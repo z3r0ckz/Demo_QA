@@ -12,6 +12,7 @@ public abstract class BaseForm {
     public BaseForm(By uniqueFormName, String formName){
         this.uniqueFormName = uniqueFormName;
         this.formName = formName;
+        this.waits = new WaitsUtil();
     }
 
     public boolean isPageOpen(By uniqueFormLocator, String formName) {

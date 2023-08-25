@@ -13,3 +13,36 @@
 
 14:11:02.848 [main] INFO  Logger.MyLogger - Go to the Page: https://demoqa.com
 14:11:02.866 [main] INFO  Logger.MyLogger - End of the Test
+14:32:43.066 [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+14:32:43.095 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+14:32:43.257 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+14:32:45.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+14:32:49.659 [main] INFO  Logger.MyLogger - Go to the Page: https://demoqa.com
+14:32:49.677 [main] INFO  Logger.MyLogger - End of the Test
+09:52:15.377 [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116
+09:52:15.396 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116)
+09:52:15.573 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+09:52:55.391 [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116
+09:52:55.403 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116)
+09:52:55.544 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+09:54:02.049 [main] ERROR io.github.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116
+09:54:02.061 [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_116)
+09:54:02.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\zeroc\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+09:59:35.763 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.33.0 (resolved driver for Firefox 116)
+09:59:35.812 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\zeroc\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+09:59:44.163 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+09:59:49.505 [main] INFO  Logger.MyLogger - Go to the Page: https://demoqa.com
+09:59:49.556 [main] INFO  Logger.MyLogger - Step 1 - Main page of DemoQA
+09:59:49.581 [main] INFO  Logger.MyLogger - End of the Test
+10:02:22.586 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.33.0 (resolved driver for Firefox 116)
+10:02:22.635 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\zeroc\.cache\selenium\geckodriver\win64\0.33.0\geckodriver.exe
+10:02:29.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\zeroc\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+10:02:34.163 [main] INFO  Logger.MyLogger - Go to the Page: https://demoqa.com
+10:02:34.216 [main] INFO  Logger.MyLogger - Step 1 - Main page of DemoQA
+10:02:34.482 [main] INFO  Logger.MyLogger - End of the Test
